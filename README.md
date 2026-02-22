@@ -31,6 +31,3 @@ make install
 ```
 `make install` copies the binary to `bin/linux/`.
 
-## Credits
-
-Based on BBC (Bit Board Chess) by Code Monkey King. Uses Stockfish NNUE evaluation.
