@@ -1,0 +1,29 @@
+# Build outputs
+*.o
+*.obj
+*.exe
+*.out
+*.so
+*.dll
+MissedClick
+MissedClick.exe
+missedclick
+missedclick.exe
+
+# Backups and temp
+*.bak
+*~
+
+# Logs and test output
+*.log
+test_*.txt
+
+# IDE
+.vs/
+*.suo
+.idea/
+*.user
+
+# OS
+Thumbs.db
+.DS_Store
